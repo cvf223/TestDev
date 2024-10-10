@@ -1,0 +1,17 @@
+{
+  "name": "JIN the Shiba NFT Collection",
+  "symbol": "JINTS_NFT",
+  "image": "collection.png",
+"properties": {
+    "files": [
+      {
+        "uri": "collection.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "description": "A Set of test NFT's for the Solana Blockchain",
+  "seller_fee_basis_points": 200,
+    "attributes": []
+}

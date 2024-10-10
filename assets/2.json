@@ -1,0 +1,12 @@
+{
+  "name": "JinHunting ",
+  "symbol": "JINTS_NFT",
+  "image": "2.png",
+  "properties": {
+    "files": [{ "uri": "2.png", "type": "image/png" }],
+    "category": "image"
+  },
+  "description": "A set of test NFTs for the Solana blockchain",
+  "seller_fee_basis_points": 200,
+  "attributes": [{ "trait_type": "Number", "value": "2" }]
+}

@@ -1,0 +1,66 @@
+{
+  "program": {
+    "candyMachine": "HCT87W7pio1pASZhmmekpmSztzgAemFf8zaHkdcqB7r1",
+    "candyGuard": "5SodhMVVSdX8QA5fMNVxHSa12GZjyiwVcyB711JXSAWU",
+    "candyMachineCreator": "3AfMxzQwq3K5h1xc4UwgNJrVDtBz3XuSkSUgewd1Y28e",
+    "collectionMint": "Db3ZPZUJ4Y3LSXG8fmx9DZvfN6CisB2WpUpykSTGqCYi"
+  },
+  "items": {
+    "-1": {
+      "name": "JIN the Shiba NFT Collection",
+      "image_hash": "561bf3d5e6f3c1a3c4a95e583adf1492804b0e1d3861b7e62c7e88b2eda1d005",
+      "image_link": "https://gateway.irys.xyz/87VxAacFE2Fqz6MJ3Y7KqsD3fa6Cz7CZi7rd4ds1wW9c?ext=png",
+      "metadata_hash": "0d0e97d3e3a4063dd2cc261a9cf80c208e06541563d9e3e6fdb8b73fe1618b49",
+      "metadata_link": "https://gateway.irys.xyz/26cxxiTF6Q8gLZNUk7uParxJ6QbhBEb9R6wvBqwqvdtp",
+      "onChain": true
+    },
+    "0": {
+      "name": "JinOG",
+      "image_hash": "561bf3d5e6f3c1a3c4a95e583adf1492804b0e1d3861b7e62c7e88b2eda1d005",
+      "image_link": "https://gateway.irys.xyz/AJyLFXfdhieB4XRhPnGGZU4vCDiW9Xncy2xFecGRZXev?ext=png",
+      "metadata_hash": "8f12a0ae71c6242052acb97f1076df4aae0595d3a95feb6c5fc25b477c0db092",
+      "metadata_link": "https://gateway.irys.xyz/9tZMDLfvVKZsG8CKGFgdPECgZk5SVnQNaKbVwP29rUYe",
+      "onChain": true
+    },
+    "1": {
+      "name": "JinHunting",
+      "image_hash": "a8ab9c8947653027cabc22946a1c2e115d43be67719d7fa0bebdfc0596e6dd44",
+      "image_link": "https://gateway.irys.xyz/BcHHyAshoU2RdPA8GCKuyYybbE6qDWujExnVNJsCckCc?ext=png",
+      "metadata_hash": "f0827deefbbc4eda6ab38f7597da7079af51d9beb6fbce796d35d963debedb50",
+      "metadata_link": "https://gateway.irys.xyz/7GV5CaPRndeMNZS2NqppCaC1HfMRMVnU3mgMBSJr9sso",
+      "onChain": true
+    },
+    "2": {
+      "name": "JinHunting ",
+      "image_hash": "853d99762671720f551570b9766e1e579dbae61f93215420de6bf0160173d419",
+      "image_link": "https://gateway.irys.xyz/34QUieRFVDfAsq5VXKZkRHw98m4hc8AbguzLxRty7JPv?ext=png",
+      "metadata_hash": "1133fe39ee00bb506346ee21341e5025862fd032e6550163539b903b0ea9db97",
+      "metadata_link": "https://gateway.irys.xyz/kwGzzEpP5Memim3AiRRbddPnroyr3WibJx3Ks1ZcVtk",
+      "onChain": true
+    },
+    "3": {
+      "name": "JinMoon",
+      "image_hash": "8b5e13b63bd6fc6269149e9a4b6983bdd4371b583a422070d2654be3e68ccf73",
+      "image_link": "https://gateway.irys.xyz/6TCsiTx9mjZZ5m9NtMqrgBoKHmMzq4SbaE6qcDZTjwCq?ext=png",
+      "metadata_hash": "0ff0b43f7a28b7b0458010c1e72f40d881d8b553ab5cc6e0331a23c95974cb25",
+      "metadata_link": "https://gateway.irys.xyz/3YkqvBSEAcvf697rayW83hVWD3C6etfdrx6xrTF6wPGM",
+      "onChain": true
+    },
+    "4": {
+      "name": "JinMoon",
+      "image_hash": "2b6720848ad086c73aa2655811d8a8e0f95559acf96db60f96072d32c42c263b",
+      "image_link": "https://gateway.irys.xyz/CaMqGeXN3fTJ5tZUVk2Mwxkb6viDisTVgATUV8hmGzYY?ext=png",
+      "metadata_hash": "2b76c6842441d64860ab39100331154c8a69d226a097e3d47fa076b9383a1ebb",
+      "metadata_link": "https://gateway.irys.xyz/GEd2UvuTxfXSvbeG2QS4g7fMhbWUU7tmXVpTzMdPmoHB",
+      "onChain": true
+    },
+    "5": {
+      "name": "JinMoon",
+      "image_hash": "2b6720848ad086c73aa2655811d8a8e0f95559acf96db60f96072d32c42c263b",
+      "image_link": "https://gateway.irys.xyz/DP8igFjLkCdJkV5nS3jPtnFqiVfUCLy8KNJccRJeQd2a?ext=png",
+      "metadata_hash": "e1200c692a8dce10ba533668fcf19f511c388c4a8f06c020eafff4b2912ca052",
+      "metadata_link": "https://gateway.irys.xyz/AR7exEnCctrNbJNtt58PdxDohdZ5ZCk4zkHPC7uVYafN",
+      "onChain": true
+    }
+  }
+}
